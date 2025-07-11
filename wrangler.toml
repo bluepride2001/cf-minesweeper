@@ -1,0 +1,12 @@
+name = "cf-minesweeper"
+main = "src/optimized.js"
+compatibility_date = "2025-06-20"
+
+
+[[d1_databases]]
+binding = "DB"
+database_name = "cf-minesweeper"
+database_id = "59580b3a-a2fe-41d8-9f11-e16fd1426dfb"
+
+[env.production]
+name = "cf-minesweeper"
